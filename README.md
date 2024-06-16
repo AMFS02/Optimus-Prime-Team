@@ -82,7 +82,14 @@ Vítor Silva, Nº 102878, E-mail: vitormtg02@ua.pt
 
 <!-- Objetivos -->
 ## Objetivos
-&#x2611;
+&#x2611; Projeto e Dimensionamento dos Sistemas de Atuação e Respetivos Drivers 
+&#x2611; Projeto e Dimensionamento dos Sistemas de COntrolo  
+&#x2611; Projeto e Dimensionamento da Unidade de Alimentação de Energia  
+&#x2611; Comando Remoto e Sistema de Comunicação sem Fios
+&#x2611; Sistema de Navegação, Controlo de Obstáculos e Execução de Trajetórias
+&#x2611; Modelo Cinemático do Manipulador e Posicionamento da Garra no Espaço 3D
+
+
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 <!-- Endereços IP -->
