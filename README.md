@@ -53,51 +53,33 @@
 
 <!-- Descrição do Projeto-->
 ## Descrição do Projeto
-O Optimus, veículo desenvolvido no âmbito da UC de projeto em sistemas de Automação, enquadra-se na categoria de veículo autónomo, pos-
-suindo a capacidade de, sem intervenção humana, percorrer um circuito delimitado por uma linha branca,
-evitando, simultaneamente, obstáculos. Adicionalmente, possui um modo de condução à distância, atra-
-vés do qual o utilizador consegue manipular a trajetória do carro e do manipulador que compõe o veículo.
-No robô encontra-se instalado um manipulador de três eixos, controlado manualmente e equipado com
-um eletroíman para recolha de objetos metálicos.
-São objetivos do trabalho a elaboração de um sistema de locomoção controlado manualmente, atra-
-vés de uma ligação WiFi ou automaticamente, pela condução assistida por sensores. Deve ser capaz de
-identificar as linhas limitantes da pista de testes e efetuar a correção do percurso, bem como contorno de
-obstáculos. Pretende-se ainda a implementação de um sistema de visão, que faça a partilha da imagem
-em tempo real do veículo. Finalmente espera-se a implementação de um manipulador de três eixos, pas-
-sível de ser operado por navegação direta, através do controlo individual de cada servo, ou por navegação
-indireta, especificando apenas a posição final para a qual o manipulador se deve deslocar. Este manipula-
-dor deve ter a capacidade de transportar de objetos metálicos através de uma garra eletromagnética, bem
-como depositá-los no local adequado.
-Neste sentido, este veículo possuí duas rodas motrizes, atuadas com dois motores DC codificados
-por encoders, e uma roda louca que confere estabilidade e amplitude de movimento. É ainda equipado
-com sensorização auxiliar, uma câmera, um microcontrolador e um computador. A velocidade de comu-
-nicação entre estes componentes dita a capacidade de resposta atempada e movimentação adequada do
-veículo, sendo por isso de extrema importância. Neste sentido opta-se por protocolos de comunicação
-que primem a sua velocidade, sem prejuízo da estabilidade e consistência da conexão.
-No que respeita o manipulador, este é composto por três servomotores de posição, com amplitude
-de 180 graus. A ativação e controlo dos mesmos é de utilização exclusivamente manual, auxiliada por
-uma câmara instalada na estrutura do manipulador. O acesso às imagens transmitidas por este dispositivo
-são disponibilizadas em qualquer modo de operação.
-O controlo manual e visualização de dados são efetuados através de um website, acessível a qual-
-quer dispositivo conectado à network criada pelo micro-controlador instalado no veículo. Desta forma,
-procura-se assegurar a acessibilidade do controlo, através de uma plataforma responsiva e de utilização
-descomplicada. Neste website é ainda possível a seleção do modo de operação do veículo, bem como
-efetuação de ajustes para efeitos de manutenção.
-
-
+  O Optimus, veículo desenvolvido no âmbito da UC de Projeto em Sistemas de Automação, enquadra-se na categoria de veículo autónomo, possuindo a capacidade de, sem intervenção humana, percorrer um circuito delimitado por uma linha branca, evitando, simultaneamente, obstáculos.\
+    Adicionalmente, possui um modo de condução à distância, através do qual o utilizador consegue manipular a trajetória do carro e do manipulador que compõe o veículo. No robô encontra-se instalado um manipulador de três eixos, controlado manualmente e equipado com um eletroíman para recolha de objetos metálicos. O equipamento é capaz de identificar as linhas limitantes da pista de testes e efetuar a correção do percurso, bem como de contornar obstáculos. Adicionalmente, o veículo está ainda equi+ado com umsistema de captação e transmissão de vídeo, que efetua a partilha do campo de visão do veículo  em tempo real.\
+  Relativamente ao manipulador, o mesmo consiste num sistema de três eixos, passível de ser operado por cinemática direta, através do controlo individual de cada servo, ou por cinemática
+inversa, especificando apenas a posição final para a qual o manipulador se deve deslocar. Este manipulador tem a capacidade de transportar de objetos metálicos através de uma garra eletromagnética, bem como depositá-los no local adequado.\
+  Neste sentido, este veículo possuí duas rodas motrizes, atuadas com dois motores DC codificados por encoders, e uma roda louca que confere estabilidade e amplitude de movimento. É ainda equipado
+com sensorização auxiliar, uma câmera, um microcontrolador e um computador. A velocidade de comunicação entre estes componentes dita a capacidade de resposta atempada e movimentação adequada do
+veículo, sendo por isso de extrema importância. Neste sentido opta-se por protocolos de comunicação que primem pela sua velocidade, sem prejuízo da estabilidade e consistência da conexão.\
+  No que respeita o manipulador, este é composto por três servomotores de posição, com amplitude de 180 graus. A ativação e controlo dos mesmos é de utilização exclusivamente manual, auxiliada por uma câmara instalada na estrutura do manipulador. O acesso às imagens transmitidas por este dispositivo é disponibilizado em qualquer modo de operação. O controlo manual e visualização de dados são efetuados através de um website, acessível a qualquer dispositivo conectado à network criada pelo micro-controlador instalado no veículo. 
+  
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
-
 
 <!-- Equipa -->
 ## Equipa 
-Alexandre Salgado, Nº 102553, E-mail: alexandre.salgado@ua.pt
 
-Lucas Lemos, Nº 102793, E-mail: lucas.lemos@ua.pt
+* Alexandre Salgado, Nº 102553, E-mail: alexandre.salgado@ua.pt
 
-Maria Rodrigues, Nº 102384, E-mail: rodrigues.mariaalves@ua.pt
+- Lucas Lemos, Nº 102793, E-mail: lucas.lemos@ua.pt
 
-Vítor Silva, Nº 102878, E-mail: vitormtg02@ua.pt
++ Maria Rodrigues, Nº 102384, E-mail: rodrigues.mariaalves@ua.pt
 
+* Vítor Silva, Nº 102878, E-mail: vitormtg02@ua.pt
+
+> [!NOTE]
+> Todos os membros pertencem à Turma P2, orientada pelo Prof. Dr. Jorge Augusto Fernandes Ferreira
+
+> [!IMPORTANT]
+> Grupo 5 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 
