@@ -94,7 +94,7 @@ veículo, sendo por isso de extrema importância. Neste sentido opta-se por prot
 ![ArduinoIDE](https://img.shields.io/badge/Arduino_IDE-3C873A?style=for-the-badge&labelColor=black&logo=arduinoide.js&logoColor=3C873A)
 ![VSCode](https://img.shields.io/badge/Visual_Studio-0078d7?style=for-the-badge&logo=visual%20studio&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![Xammp](https://img.shields.io/badge/Xammp-F05032?style=for-the-badge&logo=xammp&logoColor=white)
+![Xampp](https://img.shields.io/badge/Xampp-F05032?style=for-the-badge&logo=xampp&logoColor=white)
 ![Teamviewer](https://img.shields.io/badge/Teamviewer-F05032?style=for-the-badge&logo=teamviewer&logoColor=white)
 
 
