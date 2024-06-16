@@ -56,11 +56,12 @@
 
 <!-- Linguagens e Plataformas-->
 ## Linguagens e Plataformas
-![C](https://img.shields.io/badge/C-F05032?style=for-the-badge&labelColor=black&logo=c&logoColor=F0DB4F)
+![C](https://img.shields.io/badge/C-F05032?style=for-the-badge&labelColor=black&logo=c&logoColor=F05032)
 ![C++](https://img.shields.io/badge/C++-F0DB4F?style=for-the-badge&labelColor=black&logo=c++&logoColor=F0DB4F)
-![Javascript](https://img.shields.io/badge/Javascript-F0DB4F?style=for-the-badge&labelColor=black&logo=javascript&logoColor=F0DB4F)
-![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![HTML](https://img.shields.io/badge/HTML5-3C873A?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![Javascript](https://img.shields.io/badge/Javascript-F0DB4F?style=for-the-badge&labelColor=black&logo=javascript&logoColor=F0DB4F)
+
 ![VSCode](https://img.shields.io/badge/Visual_Studio-0078d7?style=for-the-badge&logo=visual%20studio&logoColor=white)
 ![ArduinoIDE](https://img.shields.io/badge/ArduinoIDE-3C873A?style=for-the-badge&labelColor=black&logo=arduinoide.js&logoColor=3C873A)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
