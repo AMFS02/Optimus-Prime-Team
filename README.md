@@ -85,9 +85,8 @@ veículo, sendo por isso de extrema importância. Neste sentido opta-se por prot
 
 <!-- Linguagens e Plataformas-->
 ## Linguagens e Plataformas
-![PHP](https://img.shields.io/badge/C-F05032?style=for-the-badge&logo=c&logoColor=white)
-![C](https://img.shields.io/badge/C-F05032?style=for-the-badge&labelColor=black&logo=c&logoColor=white)
-![C++](https://img.shields.io/badge/C++-F0DB4F?style=for-the-badge&labelColor=black&logo=c++&logoColor=F0DB4F)
+![C](https://img.shields.io/badge/C-F05032?style=for-the-badge&logo=c&logoColor=white)
+![C++](https://img.shields.io/badge/C++-F0DB4F?style=for-the-badge&logo=c&logoColor=white)
 ![HTML](https://img.shields.io/badge/HTML5-3C873A?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![PHP](https://img.shields.io/badge/PHP-F05032?style=for-the-badge&logo=php&logoColor=white)
