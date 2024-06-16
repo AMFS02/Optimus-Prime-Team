@@ -119,6 +119,13 @@ veículo, sendo por isso de extrema importância. Neste sentido opta-se por prot
 
 <!-- Endereços IP -->
 ## Endereços IP
+* **Lattepanda**: 192.168.4.250
+  
+- **Arduino Uno Wifi**: 192.168.4.1
+  
++ **Computador**: https:// 192.168.4.250
+> [!WARNING]
+> Este IP não corresponde ao endereço do computador mas ao endereço a partir do qual este vai aceder à página de monitorização e controlo
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
