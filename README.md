@@ -53,6 +53,37 @@
 
 <!-- Descrição do Projeto-->
 ## Descrição do Projeto
+O Optimus, veículo desenvolvido no âmbito da UC de projeto em sistemas de Automação, enquadra-se na categoria de veículo autónomo, pos-
+suindo a capacidade de, sem intervenção humana, percorrer um circuito delimitado por uma linha branca,
+evitando, simultaneamente, obstáculos. Adicionalmente, possui um modo de condução à distância, atra-
+vés do qual o utilizador consegue manipular a trajetória do carro e do manipulador que compõe o veículo.
+No robô encontra-se instalado um manipulador de três eixos, controlado manualmente e equipado com
+um eletroíman para recolha de objetos metálicos.
+São objetivos do trabalho a elaboração de um sistema de locomoção controlado manualmente, atra-
+vés de uma ligação WiFi ou automaticamente, pela condução assistida por sensores. Deve ser capaz de
+identificar as linhas limitantes da pista de testes e efetuar a correção do percurso, bem como contorno de
+obstáculos. Pretende-se ainda a implementação de um sistema de visão, que faça a partilha da imagem
+em tempo real do veículo. Finalmente espera-se a implementação de um manipulador de três eixos, pas-
+sível de ser operado por navegação direta, através do controlo individual de cada servo, ou por navegação
+indireta, especificando apenas a posição final para a qual o manipulador se deve deslocar. Este manipula-
+dor deve ter a capacidade de transportar de objetos metálicos através de uma garra eletromagnética, bem
+como depositá-los no local adequado.
+Neste sentido, este veículo possuí duas rodas motrizes, atuadas com dois motores DC codificados
+por encoders, e uma roda louca que confere estabilidade e amplitude de movimento. É ainda equipado
+com sensorização auxiliar, uma câmera, um microcontrolador e um computador. A velocidade de comu-
+nicação entre estes componentes dita a capacidade de resposta atempada e movimentação adequada do
+veículo, sendo por isso de extrema importância. Neste sentido opta-se por protocolos de comunicação
+que primem a sua velocidade, sem prejuízo da estabilidade e consistência da conexão.
+No que respeita o manipulador, este é composto por três servomotores de posição, com amplitude
+de 180 graus. A ativação e controlo dos mesmos é de utilização exclusivamente manual, auxiliada por
+uma câmara instalada na estrutura do manipulador. O acesso às imagens transmitidas por este dispositivo
+são disponibilizadas em qualquer modo de operação.
+O controlo manual e visualização de dados são efetuados através de um website, acessível a qual-
+quer dispositivo conectado à network criada pelo micro-controlador instalado no veículo. Desta forma,
+procura-se assegurar a acessibilidade do controlo, através de uma plataforma responsiva e de utilização
+descomplicada. Neste website é ainda possível a seleção do modo de operação do veículo, bem como
+efetuação de ajustes para efeitos de manutenção.
+
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
