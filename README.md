@@ -110,7 +110,7 @@ This section should list any major programming languages used to build your proj
 * [![CSS][CSS-lang]][CSS-url]
 * [![PHP][PHP-lang]][PHP-url]
 * [![HTML][HTML-lang]][HTML-url]
-* [![JavaScript][JavaScript-lang]][JavaScript-url]
+* [![JavaScript][JavaScript-lang]][[JavaScript-url](https://developer.mozilla.org/pt-BR/docs/Web/JavaScript)]
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
