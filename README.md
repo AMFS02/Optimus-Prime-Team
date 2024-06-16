@@ -69,7 +69,7 @@ Use the `BLANK_README.md` to get started.
 
 
 
-### Linguagens e Plataformas
+## Linguagens e Plataformas
 
 This section should list any major programming languages used to build your project. Leave any add-ons/plugins for the acknowledgements section. Here are a few examples.
 
