@@ -2,7 +2,7 @@
 <br />
 <div align="center">
   <a href="https://github.com/AMFS02/OptimusPT_PSA">
-    <img src="Optimus.jpg" alt="Logo" width="200" height="200">
+    <img src="Imagens/Optimus.jpg" alt="Logo" width="200" height="200">
   </a>
 
   <h3 align="center">Optimus Prime Team</h3>
