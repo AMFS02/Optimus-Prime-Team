@@ -29,8 +29,7 @@
   <ol>
     <li>
       <a href="#descriçao-do-projeto">Descrição do Projeto</a>
-      <ul>
-        <li><a href="#linguagens-e-plataformas">Linguagens e Plataformas</a></li>
+      <a href="#linguagens-e-plataformas">Linguagens e Plataformas</a></li>
       </ul>
     </li>
     <li>
@@ -144,9 +143,7 @@ See the [open issues](https://github.com/othneildrew/Best-README-Template/issues
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
-
-
-<!-- CONTRIBUTING -->
+<!-- Demonstração -->
 ## Demonstração
 [![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/dzPB7yKjNPE/0.jpg)](https://www.youtube.com/watch?v=dzPB7yKjNPE)
 
