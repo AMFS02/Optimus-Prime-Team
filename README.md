@@ -34,18 +34,19 @@
       </ul>
     </li>
     <li>
-      <a href="#equipa">Equipa</a>
+      <a href="#objetivos">Objetivos</a>
       </ul>
     </li>
     <li>
-      
-        <li><a href="#prerequisites">Prerequisites</a></li>
-        <li><a href="#installation">Installation</a></li>
+      <a href="#endereços-ip">Endereços IP</a>
       </ul>
     </li>
-    <li><a href="#usage">Usage</a></li>
-    <li><a href="#roadmap">Roadmap</a></li>
-    <li><a href="#contributing">Contributing</a></li>
+    <li>
+      <a href="#demonstração">Demonstração</a>
+      </ul>
+    </li>
+    <li>
+      <a href="#relatório">Relatório de Projeto</a>
 </details>
 
 
