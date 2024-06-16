@@ -86,11 +86,12 @@ veículo, sendo por isso de extrema importância. Neste sentido opta-se por prot
 <!-- Linguagens e Plataformas-->
 ## Linguagens e Plataformas
 ![C](https://img.shields.io/badge/C-F05032?style=for-the-badge&logo=c&logoColor=white)
-![C++](https://img.shields.io/badge/C++-F0DB4F?style=for-the-badge&logo=c&logoColor=white)
+![C++](https://img.shields.io/badge/C++-F0DB4F?style=for-the-badge&logo=c++&logoColor=white)
 ![HTML](https://img.shields.io/badge/HTML5-3C873A?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![PHP](https://img.shields.io/badge/PHP-F05032?style=for-the-badge&logo=php&logoColor=white)
 ![Javascript](https://img.shields.io/badge/Javascript-F0DB4F?style=for-the-badge&labelColor=black&logo=javascript&logoColor=F0DB4F)
+![XML](https://img.shields.io/badge/XML-F05032?style=for-the-badge&logo=xml&logoColor=white)
 ![ArduinoIDE](https://img.shields.io/badge/Arduino_IDE-3C873A?style=for-the-badge&labelColor=black&logo=arduinoide.js&logoColor=3C873A)
 ![VSCode](https://img.shields.io/badge/Visual_Studio-0078d7?style=for-the-badge&logo=visual%20studio&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
