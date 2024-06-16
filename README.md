@@ -27,12 +27,19 @@
         </ul>
     </li>
     <li>
+      <a href="#equipa">Equipa</a>
+      </ul>
+    </li>
+    <li>
       <a href="#linguagens-e-plataformas">Linguagens e Plataformas</a></li>
       </ul>
     </li>
     <li>
-      <a href="#getting-started">Getting Started</a>
-      <ul>
+      <a href="#equipa">Equipa</a>
+      </ul>
+    </li>
+    <li>
+      
         <li><a href="#prerequisites">Prerequisites</a></li>
         <li><a href="#installation">Installation</a></li>
       </ul>
@@ -49,6 +56,17 @@
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
+
+<!-- Equipa -->
+## Equipa 
+Alexandre Salgado, Nº 102553, E-mail: alexandre.salgado@ua.pt
+Lucas Lemos, Nº 102793, E-mail: lucas.lemos@ua.pt
+Maria Rodrigues, Nº 102384, E-mail: rodrigues.mariaalves@ua.pt
+Vítor Silva, Nº 102878, E-mail: vitormtg02@ua.pt
+
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
+
+
 <!-- Linguagens e Plataformas-->
 ## Linguagens e Plataformas
 ![C](https://img.shields.io/badge/C-F05032?style=for-the-badge&labelColor=black&logo=c&logoColor=white)
@@ -60,70 +78,15 @@
 ![ArduinoIDE](https://img.shields.io/badge/Arduino_IDE-3C873A?style=for-the-badge&labelColor=black&logo=arduinoide.js&logoColor=3C873A)
 ![VSCode](https://img.shields.io/badge/Visual_Studio-0078d7?style=for-the-badge&logo=visual%20studio&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
-
-
-<!-- GETTING STARTED -->
-## Getting Started
-
-This is an example of how you may give instructions on setting up your project locally.
-To get a local copy up and running follow these simple example steps.
-
-### Prerequisites
-
-This is an example of how to list things you need to use the software and how to install them.
-* npm
-  ```sh
-  npm install npm@latest -g
-  ```
-
-### Installation
-
-_Below is an example of how you can instruct your audience on installing and setting up your app. This template doesn't rely on any external dependencies or services._
-
-1. Get a free API Key at [https://example.com](https://example.com)
-2. Clone the repo
-   ```sh
-   git clone https://github.com/your_username_/Project-Name.git
-   ```
-3. Install NPM packages
-   ```sh
-   npm install
-   ```
-4. Enter your API in `config.js`
-   ```js
-   const API_KEY = 'ENTER YOUR API';
-   ```
-
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
-
-
-
-<!-- USAGE EXAMPLES -->
-## Usage
-
-Use this space to show useful examples of how a project can be used. Additional screenshots, code examples and demos work well in this space. You may also link to more resources.
-
-_For more examples, please refer to the [Documentation](https://example.com)_
-
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
-
-
-
-<!-- ROADMAP -->
+<!-- Objetivos -->
 ## Objetivos
+&#x2611;
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
 
-- [x] Add Changelog
-- [x] Add back to top links
-- [ ] Add Additional Templates w/ Examples
-- [ ] Add "components" document to easily copy & paste sections of the readme
-- [ ] Multi-language Support
-    - [ ] Chinese
-    - [ ] Spanish
-
-See the [open issues](https://github.com/othneildrew/Best-README-Template/issues) for a full list of proposed features (and known issues).
+<!-- Endereços IP -->
+## Endereços IP
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -133,7 +96,7 @@ See the [open issues](https://github.com/othneildrew/Best-README-Template/issues
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 
-<!-- Demonstração -->
+<!-- Relatório -->
 ## Relatório
 [Relatório de Projeto](P5_10_102553_102793_102384_Relatorio1.pdf)
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
