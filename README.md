@@ -29,6 +29,9 @@
   <ol>
     <li>
       <a href="#descriçao-do-projeto">Descrição do Projeto</a>
+        </ul>
+    </li>
+    <li>
       <a href="#linguagens-e-plataformas">Linguagens e Plataformas</a></li>
       </ul>
     </li>
