@@ -143,6 +143,6 @@ veículo, sendo por isso de extrema importância. Neste sentido opta-se por prot
 <br />
 <div align="center">
   <a href="https://www.ua.pt/">
-    <img src="ua_logo.png" alt="Logo" width="200" height="74">
+    <img src="Logo UA.png" alt="Logo" width="200" height="74">
   </a>
 
