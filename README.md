@@ -60,8 +60,11 @@
 <!-- Equipa -->
 ## Equipa 
 Alexandre Salgado, Nº 102553, E-mail: alexandre.salgado@ua.pt
+
 Lucas Lemos, Nº 102793, E-mail: lucas.lemos@ua.pt
+
 Maria Rodrigues, Nº 102384, E-mail: rodrigues.mariaalves@ua.pt
+
 Vítor Silva, Nº 102878, E-mail: vitormtg02@ua.pt
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
@@ -83,10 +86,19 @@ Vítor Silva, Nº 102878, E-mail: vitormtg02@ua.pt
 <!-- Objetivos -->
 ## Objetivos
 &#x2611; Projeto e Dimensionamento dos Sistemas de Atuação e Respetivos Drivers 
-&#x2611; Projeto e Dimensionamento dos Sistemas de COntrolo  
-&#x2611; Projeto e Dimensionamento da Unidade de Alimentação de Energia  
+
+&#x2611; Projeto e Dimensionamento dos Sistemas de Controlo  
+
+&#x2611; Projeto e Dimensionamento da Unidade de Alimentação de Energia 
+
 &#x2611; Comando Remoto e Sistema de Comunicação sem Fios
-&#x2611; Sistema de Navegação, Controlo de Obstáculos e Execução de Trajetórias
+
+&#x2611; Sistema de Navegação, Contorno de Obstáculos e Execução de Trajetórias
+
+&#x2611; Projeto e Dimensionamento dos Sistemas de Sensorização Acesória 
+
+&#x2611; Integração de um Sistema de LiveStreaming de Imagens para Auxílio da Navegação de Longa Distância
+
 &#x2611; Modelo Cinemático do Manipulador e Posicionamento da Garra no Espaço 3D
 
 
