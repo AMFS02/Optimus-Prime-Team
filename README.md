@@ -10,7 +10,7 @@
   <p align="center">
     Projeto em Sistemas de Automação 2023/2024
     <br />
-    <a href="https://github.com/othneildrew/Best-README-Template"><strong>Explore the docs »</strong></a>
+    <a href="https://github.com/AMFS02/OptimusPT_PSA"><strong>Explore the docs »</strong></a>
     <br />
     <br />
     <a href="https://github.com/othneildrew/Best-README-Template">View Demo</a>
