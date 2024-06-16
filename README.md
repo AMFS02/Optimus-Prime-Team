@@ -1,7 +1,7 @@
 <!-- PROJECT LOGO -->
 <br />
 <div align="center">
-  <a href="https://github.com/othneildrew/Best-README-Template">
+  <a href="https://github.com/AMFS02/OptimusPT_PSA">
     <img src="Optimus.jpg" alt="Logo" width="200" height="200">
   </a>
 
@@ -140,5 +140,9 @@ veículo, sendo por isso de extrema importância. Neste sentido opta-se por prot
 [Relatório de Projeto](P5_10_102553_102793_102384_Relatorio1.pdf)
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
-
+<br />
+<div align="center">
+  <a href="https://www.ua.pt/">
+    <img src="ualogo.png" alt="Logo" width="200" height="200">
+  </a>
 
