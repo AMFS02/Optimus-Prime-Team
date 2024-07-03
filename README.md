@@ -53,7 +53,7 @@
 
 <!-- Descrição do Projeto-->
 ## Descrição do Projeto
-  O Optimus, veículo desenvolvido no âmbito da UC de Projeto em Sistemas de Automação, enquadra-se na categoria de veículo autónomo, possuindo a capacidade de, sem intervenção humana, percorrer um circuito delimitado por uma linha branca, evitando, simultaneamente, obstáculos.\
+  O Optimus, veículo desenvolvido no âmbito da Unidade Curricular (UC) de Projeto em Sistemas de Automação, enquadra-se na categoria de veículo autónomo, possuindo a capacidade de, sem intervenção humana, percorrer um circuito delimitado por uma linha branca, evitando, simultaneamente, obstáculos.\
     Adicionalmente, possui um modo de condução à distância, através do qual o utilizador consegue manipular a trajetória do carro e do manipulador que compõe o veículo. No robô encontra-se instalado um manipulador de três eixos, controlado manualmente e equipado com um eletroíman para recolha de objetos metálicos. O equipamento é capaz de identificar as linhas limitantes da pista de testes e efetuar a correção do percurso, bem como de contornar obstáculos. Adicionalmente, o veículo está ainda equipado com umsistema de captação e transmissão de vídeo, que efetua a partilha do campo de visão do veículo  em tempo real.\
   Relativamente ao manipulador, o mesmo consiste num sistema de três eixos, passível de ser operado por cinemática direta, através do controlo individual de cada servo, ou por cinemática
 inversa, especificando apenas a posição final para a qual o manipulador se deve deslocar. Este manipulador tem a capacidade de transportar de objetos metálicos através de uma garra eletromagnética, bem como depositá-los no local adequado.\
