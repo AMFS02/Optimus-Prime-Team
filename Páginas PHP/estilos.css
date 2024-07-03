@@ -1,0 +1,120 @@
+body { position: relative; border: 0px; font-family:Verdana, Geneva, sans-serif; font-size: 16px; line-height: 26px; text-align: justify;}
+
+img { width:100%; height: auto; }
+.cx { margin:20px 0px; border:rgb(255, 255, 255) 1px solid; padding:20px; text-align:center; }
+
+a   { text-decoration: none; }
+
+h1  { font-size: 26px; line-height: 36px; color: rgb(3, 126, 249); }
+h3  { font-size: 18px; line-height: 22px; color: rgb(30, 31, 31); }
+h6  { font-size: 18px; line-height: 22px; color: rgb(30, 31, 31); }
+
+.t25    { width: 25%; }
+.t50    { width: 50%; }
+.tpx5   { padding: 5px;  }
+.tpx120 { width: 120px;  }
+.p25    { padding: 25px; }
+.pd25   { padding: auto 25px auto auto; }
+
+#menu   { color: white; margin: 0px; padding: 20px 0px; }
+#login  { width: 300px; margin: 100px auto 0px;  }
+
+
+#menu a { padding-right: 20px; }
+.espaco { height: 80px; }
+.fundo  { width: 100%; padding: 20px 0px; border-top: rgb(255, 255, 255) 1px solid; transition: bottom 0.5s ease-in-out; }
+
+.galeria     { float: left; width: 22%; margin: 20px 10px; border: rgb(255, 255, 255) 1px solid; }
+.galeria img { width: 100%;  }
+.miniatura   { max-height: 160px; overflow: hidden; }
+/* .galeria a img { width: 25px; margin: 10px 20px 0px; } */
+.mensagem    { width: 100%; margin: auto; padding: 20px 0px; }
+
+/* .imagem      { width: 200px; margin: auto; } */
+/* .imagem img  { width: 100%; } */
+
+.meuvideo       { width: 720px; height: auto; margin: 50px auto 20px auto; border: rgb(255, 255, 255) 1px solid; padding: 10px; }
+.meuvideo video { width: 100%; }
+
+.janela { width: 830px; height:600px; margin: auto; margin: 10px auto 10px auto; border: rgb(255, 255, 255) 1px solid; padding: 10px; overflow: hidden; }
+iframe  { width: 100%; height: 100%; border: 0px;  }
+
+.icon   { width: 25px; margin: 10px 20px 0px; }
+
+table   { width: 90%; margin: auto; }
+th, td  { border-collapse: collapse; border-bottom: rgb(255, 255, 255) 1px solid; padding: 5px 3px; }
+
+.esq    { float: left; }
+.dir    { float: right;}
+.limpar { clear: both;}
+
+input    { width: 90%; margin: 5px; padding: 5px; }
+textarea { resize: none; width: 90%; }
+
+#botao  { width: 50%; margin: auto; margin-top: 20px; }
+
+.info   { font-size: small; }
+.e      { text-align: left; }
+.c      { text-align: center; }
+.d      { text-align: right; }
+
+.vermelho { background: rgb(172, 88, 88); color: white; }
+.verde    { background: rgb(47, 188, 47); color: white;}
+
+/* Webcam */
+
+#container { width: 100%; height: 375px;  margin: 250 px; padding: 5px; }
+#container video { width: 100%; height: 100%; }
+iframe  { width: 100%; height: 100%; }
+   
+.limite { width: 100%; border: darkgrey 0px solid; }
+
+/* Controlo Manual dos Motores */
+
+.controlo { width: 330px; margin: auto; padding: 20px; border: #293F5E 1px solid; border-radius: 8px; }
+
+.botoes { float: left; background-color:#293F5E; text-align:center; margin: 10px; border-radius: 5px; padding: 20px; }
+
+.setas { float: left; width: 60px; height: 60px; margin: 10px; }
+.setas img { width: 100%; height: 100%; }
+.setas a { color: black; }
+.setas img:hover { cursor: pointer; }
+
+/* Braço - Navegação Inversa */
+
+#braco {width: 450px; height: 360px; margin: auto; border: rgb(255, 255, 255) 1px solid;  }
+
+canvas { background-color: #C5C5C5; border: rgb(255, 255, 255) 1px solid; }
+
+.slider-container { margin: 10px;}
+.slider { width: 35%; margin: 0 auto;}
+
+.base-text { }
+.slider-value { }
+
+.switch-container { float: left; width: 35%;  margin-left: 145px;  }
+.button-container { float: left; width: 35%;  margin-left: 20px; }
+
+.switch {float: left; left: 4px;  display: inline-block; position: relative; width: 60px; height: 34px;}
+.switch input {opacity: 0; width: 0; height: 0;}
+.slider-round {position: absolute; cursor: pointer; top: 0; left: 0; right: 0; bottom: 0; background-color: #ccc; -webkit-transition: .4s; transition: .4s; border-radius: 34px; }
+
+.slider-round:before { position: absolute; content: ""; height: 26px; width: 26px; left: 4px; bottom: 4px; background-color: white;    -webkit-transition: .4s; transition: .4s; border-radius: 50%; }
+
+input:checked + .slider-round {background-color: #4CAF50; /* Green color when ON */}
+input:checked + .slider-round:before { -webkit-transform: translateX(26px); -ms-transform: translateX(26px); transform: translateX(26px);
+}
+input:focus + .slider-round {box-shadow: 0 0 1px #4CAF50; /* Green shadow when focused */}
+
+/* Rounded sliders */ .slider-round.round {border-radius: 34px;}
+.slider-round.round:before {border-radius: 50%;}
+
+input + .slider-round {background-color: #D32F2F; /* Red color when OFF */}
+
+.round-button { float: left; width: 34px; height: 34px; background-color: #FF8B00; border-radius: 50%; margin-left: 10px; cursor: pointer;     transition: background-color 0.1s; }
+.button-text { float: left; margin: 5px 0px 0px 15px; }
+.round-button:active {background-color: #FF0C00;}
+
+.slider-value1 {position: absolute; top: -40px; left: 800px; font-size: 16px;}
+.slider-value2 {position: absolute; top: -40px; left: 80px; font-size: 16px;}
+.slider-value3 { position: absolute; top: -30px; left: 80px; font-size: 16px;}
